@@ -31,8 +31,6 @@ title: "About Me"
 </style>
 
 <div class="site-container">
-
-<h2>About Me</h2>
 <p>Welcome to my blog! My name is Pratyush and I am a data scientist, writer, traveller, and book reader with an occasional love for DOTA 2.</p>
 <p>I am always on the lookout for new and exciting things to learn, experiment with, and build. My passion for technology and innovation drives me to explore various proof-of-concept applications, and I love sharing my findings and experiences with others. If you are interested in learning about my experiments and discoveries, be sure to follow me on this blog.</p>
 <p>I write about a variety of topics, including data science, books, and automation. I believe in sharing the lessons I've learned on my personal journey, without preaching or telling others what to do. If you are interested in any of these topics, you'll enjoy reading my posts.</p>
