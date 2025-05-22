@@ -37,7 +37,7 @@ title: "About Me"
 <p>I write about a variety of topics, including data science, books, and automation. I believe in sharing the lessons I've learned on my personal journey, without preaching or telling others what to do. If you are interested in any of these topics, you'll enjoy reading my posts.</p>
 <p>I really enjoy travelling and frequently come across amazing stories that I simply cannot keep to myself. I'll be sure to share my experiences with you, whether it's a new place I've visited or an interesting book I've read.</p>
 <p>I currently work as a Data Scientist, where I assist in the development and scaling of predictive intelligence. Previously, I worked as a Consultant, assisting companies with advanced analytics and data science.</p>
-<p>If you'd like to connect with me, feel free to send a connection request on <a href="https://www.linkedin.com/in/kharepratyush/" target="_blank">LinkedIn</a> or check out my <a href="https://kharepratyush.medium.com/" target="_blank">Medium</a> for more stories and insights. Thanks for reading and I hope you enjoy my blog!</p>
+<p>If you'd like to connect with me, feel free to send a connection request on <a href="https://www.linkedin.com/in/kharepratyush/" target="_blank">LinkedIn</a> or check out my <a href="https://kharepratyush.medium.com/" target="_blank">Medium</a> for more stories and insights. Thanks for reading!</p>
 
 </div>
 
