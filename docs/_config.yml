@@ -2,4 +2,11 @@ title: "Pratyush Khare"
 description: "Data scientist · Tech buff · Student-for-life"
 theme: minima
 author: "Pratyush Khare"
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about.html
+  - title: "Blogs"
+    url: /blogs.html
 
