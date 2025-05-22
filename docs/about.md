@@ -4,47 +4,41 @@ title: "About Me"
 ---
 
 <style>
-.about-section {
-  max-width: 700px;
+.site-container {
+  max-width: 750px;
   margin: 0 auto;
-  font-size: 1.08em;
+  padding: 2em 1.5em 1.5em 1.5em;
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.07);
 }
-.about-section h2, .about-section h3 {
+.site-container h2 {
   color: #0077B5;
-  margin-top: 2em;
+  font-weight: 700;
+  margin-top: 1.5em;
 }
-.about-section ul {
-  margin-bottom: 2em;
+.site-container p {
+  font-size: 1.08em;
+  margin-bottom: 1.2em;
 }
-.about-section li {
-  margin-bottom: 0.4em;
+.site-container a {
+  color: #0077B5;
+  text-decoration: none;
+}
+.site-container a:hover {
+  text-decoration: underline;
 }
 </style>
 
-<div class="about-section">
+<div class="site-container">
 
-<h2>Background</h2>
+<h2>About Me</h2>
 <p>Welcome to my blog! My name is Pratyush and I am a data scientist, writer, traveller, and book reader with an occasional love for DOTA 2.</p>
 <p>I am always on the lookout for new and exciting things to learn, experiment with, and build. My passion for technology and innovation drives me to explore various proof-of-concept applications, and I love sharing my findings and experiences with others. If you are interested in learning about my experiments and discoveries, be sure to follow me on this blog.</p>
 <p>I write about a variety of topics, including data science, books, and automation. I believe in sharing the lessons I've learned on my personal journey, without preaching or telling others what to do. If you are interested in any of these topics, you'll enjoy reading my posts.</p>
 <p>I really enjoy travelling and frequently come across amazing stories that I simply cannot keep to myself. I'll be sure to share my experiences with you, whether it's a new place I've visited or an interesting book I've read.</p>
-<p>I currently work as a Data Scientist at a Game company, where I assist in the development and scaling of predictive intelligence. Previously, I worked as a Consultant, assisting pharmaceutical companies with advanced analytics and data science.</p>
-<p>If you'd like to connect with me, feel free to send a connection request on LinkedIn. Thanks for reading and I hope you enjoy my blog!</p>
-
-<h2>Skills &amp; Tools</h2>
-<ul>
-  <li><b>ML &amp; AI:</b> Machine Learning, Deep Learning, GenAI, Model Evaluation, LTR</li>
-  <li><b>Search &amp; Recommendations:</b> OpenSearch, Elasticsearch, Query Understanding, Ranking, Personalization</li>
-  <li><b>Backend:</b> Python, Microservices, REST APIs</li>
-  <li><b>Cloud &amp; Infra:</b> AWS, Azure, Docker, Kubernetes</li>
-</ul>
-
-<h2>Experience Highlights</h2>
-<ul>
-  <li>Developed Food Merchant LTR plugin for OpenSearch/Elasticsearch</li>
-  <li>Led multi-objective optimization for search &amp; recommendations</li>
-  <li>Designed GenAI evaluation framework for search quality</li>
-</ul>
+<p>I currently work as a Data Scientist, where I assist in the development and scaling of predictive intelligence. Previously, I worked as a Consultant, assisting companies with advanced analytics and data science.</p>
+<p>If you'd like to connect with me, feel free to send a connection request on <a href="https://www.linkedin.com/in/kharepratyush/" target="_blank">LinkedIn</a> or check out my <a href="https://kharepratyush.medium.com/" target="_blank">Medium</a> for more stories and insights. Thanks for reading and I hope you enjoy my blog!</p>
 
 </div>
 
