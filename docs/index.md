@@ -10,7 +10,7 @@ Data scientist, tech buff, student-for-life, loves building AI/ML platforms/solu
 </div>
 
 <div style="font-size:1.1em; margin-bottom:1.5em;">
-“Senior Data Scientist at Careem Enterprise (Dubai), building scalable search & recommendation engines; expert in ML, search (OpenSearch/ES), LTR, microservices (Java/Python), containerization (Docker/K8s), cloud (AWS/Azure), and data pipelines.”
+Senior Data Scientist at Careem Enterprise (Dubai), building scalable search & recommendation engines; expert in ML, search (OpenSearch/ES), LTR, microservices (Python), containerization (Docker/K8s), cloud (AWS/Azure), and data pipelines.
 </div>
 
 <nav>

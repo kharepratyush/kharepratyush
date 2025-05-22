@@ -29,16 +29,20 @@ Lifelong learner passionate about transforming data into insights.
 
 ## Skills & Tools
 
-- **ML & AI:** Machine Learning, Deep Learning, GenAI, Model Evaluation, LTR
-- **Search & Recommendations:** OpenSearch, Elasticsearch, Query Understanding, Ranking, Personalization
-- **Backend:** Python, Microservices, REST APIs
-- **Cloud & Infra:** AWS, Azure, Docker, Kubernetes
+<ul>
+  <li><b>ML & AI:</b> Machine Learning, Deep Learning, GenAI, Model Evaluation, LTR</li>
+  <li><b>Search & Recommendations:</b> OpenSearch, Elasticsearch, Query Understanding, Ranking, Personalization</li>
+  <li><b>Backend:</b> Python, Microservices, REST APIs</li>
+  <li><b>Cloud & Infra:</b> AWS, Azure, Docker, Kubernetes</li>
+</ul>
 
 ## Experience Highlights
 
-- Developed Food Merchant LTR plugin for OpenSearch/Elasticsearch
-- Led multi-objective optimization for search & recommendations
-- Designed GenAI evaluation framework for search quality
+<ul>
+  <li>Developed Food Merchant LTR plugin for OpenSearch/Elasticsearch</li>
+  <li>Led multi-objective optimization for search & recommendations</li>
+  <li>Designed GenAI evaluation framework for search quality</li>
+</ul>
 
 </div>
 
