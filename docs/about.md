@@ -2,6 +2,7 @@
 layout: page
 title: "About Me"
 ---
+<link rel="icon" type="image/svg+xml" href="{{ '/assets/logo.svg' | relative_url }}">
 
 <style>
 .site-container {
