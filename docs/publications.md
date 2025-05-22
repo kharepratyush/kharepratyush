@@ -55,7 +55,6 @@ title: "Blogs"
 
 <div class="site-container">
 
-<h2>Blogs</h2>
 <ul class="blog-list">
   <li class="blog-item">
     <div class="blog-title">Cracking the Code: Byte Pair Encoding (BPE) Explained</div>
