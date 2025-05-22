@@ -3,7 +3,7 @@ layout: home
 title: "Hello, I’m Pratyush Khare"
 ---
 
-<img src="/intro-site/assets/profile.jpg" alt="Pratyush Khare" width="180" style="border-radius: 50%; margin-bottom: 1em;">
+<img src="https://media.licdn.com/dms/image/v2/D5603AQH4UWhsqm3JEA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1704024055023?e=1753315200&v=beta&t=V_dhcr6kr3Hsth8ICMGuj3nXg5Pk7Q5Qc93O2j2kp04" alt="Pratyush Khare" width="180" style="border-radius: 50%; margin-bottom: 1em;">
 
 <div style="font-size:1.2em; font-style:italic; margin-bottom:1em;">
 Data scientist, tech buff, student-for-life, loves building AI/ML platforms/solutions, drawing insights from data.
