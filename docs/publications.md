@@ -43,6 +43,21 @@ title: "Blogs"
   color: #444;
   margin-bottom: 0.4em;
 }
+.site-container .blog-tags {
+  margin-bottom: 0.5em;
+}
+.site-container .blog-tag {
+  display: inline-block;
+  background: #f3f3f3;
+  color: #888;
+  font-size: 0.97em;
+  border-radius: 6px;
+  padding: 2px 8px;
+  margin-right: 6px;
+  margin-bottom: 2px;
+  font-family: monospace;
+  letter-spacing: 0.01em;
+}
 .site-container a {
   color: #0077B5;
   text-decoration: none;
@@ -56,11 +71,17 @@ title: "Blogs"
 <div class="site-container">
 
 <ul class="blog-list">
-{% for post in site.data.medium_posts %}
+{% assign sorted_posts = site.data.medium_posts | sort: 'published_on' | reverse %}
+{% for post in sorted_posts %}
   <li class="blog-item">
     <div class="blog-title">{{ post.title }}</div>
     <div class="blog-meta">{{ post.published_on }} · {{ post.author_name }} · ~{{ post.read_time }} min read</div>
     <div class="blog-desc">{{ post.subtitle }}</div>
+    <div class="blog-tags">
+      {% for tag in post.tags %}
+        <span class="blog-tag">#{{ tag }}</span>
+      {% endfor %}
+    </div>
     <a href="{{ post.url }}" target="_blank">Read on Medium</a>
   </li>
 {% endfor %}
