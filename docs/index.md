@@ -26,7 +26,6 @@ title: "Hi, I am Pratyush"
 .site-container nav {
   margin-bottom: 2em;
   font-size: 1.1em;
-  text-align: center;
 }
 .site-container nav a {
   color: #0077B5;
@@ -56,18 +55,18 @@ title: "Hi, I am Pratyush"
 
 <img src="https://media.licdn.com/dms/image/v2/D5603AQH4UWhsqm3JEA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1704024055023?e=1753315200&v=beta&t=V_dhcr6kr3Hsth8ICMGuj3nXg5Pk7Q5Qc93O2j2kp04" alt="Pratyush Khare" width="180">
 
-<div style="font-size:1.2em; font-style:italic; margin-bottom:1em; text-align:center;">
+<div style="font-size:1.2em; font-style:italic; margin-bottom:1em;">
   Data scientist, writer, traveller, book lover, and occasional DOTA 2 enthusiast.<br>
   <span style="color:#0077B5;">Always learning, always building, always sharing.</span>
 </div>
 
-<div style="font-size:1.1em; margin-bottom:1.5em; text-align:center;">
+<div style="font-size:1.1em; margin-bottom:1.5em;">
   <b>Currently:</b> Senior Data Scientist at Careem (Dubai), building scalable search & recommendation engines.<br>
   <b>Experience:</b> 8+ years in advanced analytics, ML, search (OpenSearch/ES), LTR, microservices (Python), containerization (Docker/K8s), cloud (AWS/Azure), and data pipelines.<br>
   <b>Previously:</b> Zynga, ZS Associates.
 </div>
 
-<div style="margin-bottom:1.5em; text-align:center;">
+<div style="margin-bottom:1.5em;">
   I love exploring new ideas, experimenting with tech, and sharing my journey.<br>
   On this blog, you'll find stories about <b>data science</b>, <b>books</b>, <b>automation</b>, <b>travel</b>, and the lessons I learn along the way.<br>
   Whether it's a new ML technique, a book review, or a travel story, I hope you'll find something inspiring here.
@@ -88,3 +87,4 @@ title: "Hi, I am Pratyush"
   <li>✍️ <b>Medium:</b> <a href="https://kharepratyush.medium.com/" target="_blank">kharepratyush.medium.com</a></li>
 </ul>
 
+</div>
