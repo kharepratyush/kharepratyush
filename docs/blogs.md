@@ -68,6 +68,22 @@ title: "Blogs"
 .site-container a:hover {
   text-decoration: underline;
 }
+.site-container a.read-on-medium {
+  font-size: 1.13em;
+  font-weight: 600;
+  padding: 4px 14px;
+  background: #f3f3f3;
+  color: #0077B5;
+  border-radius: 6px;
+  display: inline-block;
+  margin-top: 0.3em;
+  margin-bottom: 0.2em;
+  transition: background 0.2s;
+}
+.site-container a.read-on-medium:hover {
+  background: #e0e0e0;
+  text-decoration: underline;
+}
 </style>
 
 <div class="site-container">
@@ -84,7 +100,7 @@ title: "Blogs"
         <span class="blog-tag">#{{ tag }}</span>
       {% endfor %}
     </div>
-    <a href="{{ post.url }}" target="_blank">Read on Medium</a>
+    <a class="read-on-medium" href="{{ post.url }}" target="_blank">Read on Medium</a>
   </li>
 {% endfor %}
 </ul>
