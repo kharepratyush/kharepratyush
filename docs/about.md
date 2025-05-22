@@ -20,5 +20,3 @@ Lifelong learner passionate about transforming data into insights.
 - Developed Food Merchant LTR plugin for OpenSearch/Elasticsearch
 - Led multi-objective optimization for search & recommendations
 - Designed GenAI evaluation framework for search quality
-- Delivered Digital Assets Onboarding platform at RAKBANK
-
