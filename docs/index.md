@@ -1,6 +1,5 @@
 ---
 layout: home
-title: "Hello, I’m Pratyush Khare"
 ---
 
 <style>
@@ -88,4 +87,3 @@ title: "Hello, I’m Pratyush Khare"
   <li>✍️ <b>Medium:</b> <a href="https://kharepratyush.medium.com/" target="_blank">kharepratyush.medium.com</a></li>
 </ul>
 
-</div>
