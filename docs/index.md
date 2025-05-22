@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Hi, I am Pratyush"
+title: "Home"
 ---
 
 <style>
