@@ -1,0 +1,1244 @@
+[
+  {
+    "title": "Cracking the Code: Byte Pair Encoding (BPE) Explained",
+    "subtitle": "Unlocking the Magic of Subword Tokenization for Language Models",
+    "author_name": "Pratyush Khare",
+    "published_on": "2025-01-06",
+    "read_time": "2.2",
+    "tags": [
+      "artificial-intelligence",
+      "programming",
+      "data-science",
+      "machine-learning",
+      "python"
+    ],
+    "url": "https://medium.com/p/ec28a8fe7e03"
+  },
+  {
+    "title": "A Detailed Guide to LoRA: Low-Rank Adaptation for Efficient Model Fine-Tuning",
+    "subtitle": "Fine-tuning large pre-trained models has become an important step of modern machine learning, especially with the rise of transformer-based…",
+    "author_name": "Pratyush Khare",
+    "published_on": "2025-01-03",
+    "read_time": "3.3",
+    "tags": [
+      "machine-learning",
+      "python",
+      "programming",
+      "artificial-intelligence",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/9adf8907bc97"
+  },
+  {
+    "title": "From Query to Dish: Building a Search Engine Using Sentence Transformers",
+    "subtitle": "Imagine you’re on a food app, searching for “spicy chicken curry.” In seconds, it suggests “Butter Chicken — Spicy,” leaving your taste…",
+    "author_name": "Pratyush Khare",
+    "published_on": "2024-12-28",
+    "read_time": "7.7",
+    "tags": [
+      "machine-learning",
+      "python",
+      "artificial-intelligence",
+      "data-science",
+      "programming"
+    ],
+    "url": "https://medium.com/p/c1411920d116"
+  },
+  {
+    "title": "A Deep Dive into Hierarchical Time Series Forecasting",
+    "subtitle": "Imagine you’re a supply chain manager for a massive FMCG (Fast-Moving Consumer Goods) company. You need to predict demand for products like…",
+    "author_name": "Pratyush Khare",
+    "published_on": "2024-10-04",
+    "read_time": "3.3",
+    "tags": [
+      "artificial-intelligence",
+      "machine-learning",
+      "data-science",
+      "python",
+      "programming"
+    ],
+    "url": "https://medium.com/p/a897756d2bf0"
+  },
+  {
+    "title": "Dubai Dreams: An Indian Expat’s Investing Adventures — Part 1",
+    "subtitle": "Dubai, a city that sparkles like the gold it’s famous for. When my wife and I first stepped foot here, we were blown away. The towering…",
+    "author_name": "Pratyush Khare",
+    "published_on": "2024-09-27",
+    "read_time": "2.0",
+    "tags": [
+      "investment",
+      "dubai",
+      "india",
+      "expat",
+      "growth"
+    ],
+    "url": "https://medium.com/p/e04a75675ea0"
+  },
+  {
+    "title": "How to improve Marketplace Feed Recommendation via Multi-Objective Optimization",
+    "subtitle": "In hyperlocal food-delivery marketplaces, success is measured not just by user satisfaction but also by the platform’s ability to drive…",
+    "author_name": "Pratyush Khare",
+    "published_on": "2024-09-26",
+    "read_time": "5.0",
+    "tags": [
+      "data-science",
+      "machine-learning",
+      "python",
+      "programming",
+      "artificial-intelligence"
+    ],
+    "url": "https://medium.com/p/9d5872271548"
+  },
+  {
+    "title": "Search System 201: How to use Bayesian Optimization to tune ElasticSearch?",
+    "subtitle": "Improve the search results using Data-driven Boost Optimization",
+    "author_name": "Pratyush Khare",
+    "published_on": "2024-07-07",
+    "read_time": "4.0",
+    "tags": [
+      "artificial-intelligence",
+      "machine-learning",
+      "python",
+      "programming",
+      "search"
+    ],
+    "url": "https://medium.com/p/45b592f480e4"
+  },
+  {
+    "title": "Improving Search Performance: A GenAI-Approach for Offline Evaluation",
+    "subtitle": "When it comes to searching, we all crave the instant gratification of finding what we need in a blink. But have you ever wondered how…",
+    "author_name": "Pratyush Khare",
+    "published_on": "2024-07-04",
+    "read_time": "7.0",
+    "tags": [
+      "machine-learning",
+      "ai",
+      "python",
+      "search",
+      "programming"
+    ],
+    "url": "https://medium.com/p/34fc9be6b97d"
+  },
+  {
+    "title": "Unboxing Efficiency: Meet Matryoshka Representation Learning for Flexible AI",
+    "subtitle": "MRL encodes information at different levels of detail creating a hierarchical representation",
+    "author_name": "Pratyush Khare",
+    "published_on": "2024-06-06",
+    "read_time": "3.1",
+    "tags": [
+      "machine-learning",
+      "python",
+      "large-language-models",
+      "data-science",
+      "programming"
+    ],
+    "url": "https://medium.com/p/71f065af058f"
+  },
+  {
+    "title": "Search System 101: Introduction to ElasticSearch",
+    "subtitle": "Have you ever needed help finding the information you need, buried under mountains of data? Then prepare to unlock the true potential of…",
+    "author_name": "Pratyush Khare",
+    "published_on": "2024-02-21",
+    "read_time": "3.5",
+    "tags": [
+      "search",
+      "python",
+      "programming",
+      "machine-learning",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/24f10fac3950"
+  },
+  {
+    "title": "Understanding REST: A Comprehensive Guide to Representational State Transfer",
+    "subtitle": "In the world of web development and APIs, REST, or Representational State Transfer, stands as an important architectural style. REST has…",
+    "author_name": "Pratyush Khare",
+    "published_on": "2024-02-20",
+    "read_time": "3.9",
+    "tags": [
+      "programming",
+      "python",
+      "machine-learning",
+      "api",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/4b05908e06c6"
+  },
+  {
+    "title": "Crafting Compelling Prompts: How Langchain Empowers OpenAI",
+    "subtitle": "Large Language Models (LLMs) are rapidly transforming possibilities across diverse fields. From generating human-quality text to composing…",
+    "author_name": "Pratyush Khare",
+    "published_on": "2024-02-13",
+    "read_time": "2.8",
+    "tags": [
+      "artificial-intelligence",
+      "machine-learning",
+      "data-science",
+      "python",
+      "programming"
+    ],
+    "url": "https://medium.com/p/1e98ebd82c7a"
+  },
+  {
+    "title": "A Guide to Sentence Transformers for Semantic Understanding",
+    "subtitle": "Imagine you’re reading a news article. You grasp individual words, but you also understand the meaning and connections between sentences…",
+    "author_name": "Pratyush Khare",
+    "published_on": "2024-02-06",
+    "read_time": "3.4",
+    "tags": [
+      "machine-learning",
+      "data-science",
+      "transformers",
+      "python",
+      "artificial-intelligence"
+    ],
+    "url": "https://medium.com/p/4fd6ef3e7097"
+  },
+  {
+    "title": "Model Calibration — Secret Sauce of Super Accurate Models",
+    "subtitle": "Welcome to the new blog where we will be discussing Model Calibration in machine learning! If you’ve ever wondered why your AI predictions…",
+    "author_name": "Pratyush Khare",
+    "published_on": "2024-01-12",
+    "read_time": "4.8",
+    "tags": [
+      "machine-learning",
+      "python",
+      "programming",
+      "data-science",
+      "artificial-intelligence"
+    ],
+    "url": "https://medium.com/p/b401d98d37e0"
+  },
+  {
+    "title": "Turbocharge Your Recommendations Using Bloom Filters!",
+    "subtitle": "Today we will discuss Bloom Filters, the unsung hero powering some of the most efficient recommendation systems out there. In this blog…",
+    "author_name": "Pratyush Khare",
+    "published_on": "2024-01-09",
+    "read_time": "5.3",
+    "tags": [
+      "recommendation-system",
+      "python",
+      "data-science",
+      "machine-learning",
+      "programming"
+    ],
+    "url": "https://medium.com/p/8f980652fabe"
+  },
+  {
+    "title": "Maximize Revenue in E-commerce by utilizing Dynamic Pricing",
+    "subtitle": "Utilize Segmentation, Elastic curves, and Optimization to maximize revenue with dynamic pricing",
+    "author_name": "Pratyush Khare",
+    "published_on": "2024-01-06",
+    "read_time": "4.1",
+    "tags": [
+      "data-science",
+      "machine-learning",
+      "python",
+      "programming",
+      "ai"
+    ],
+    "url": "https://medium.com/p/a6fa0ea94528"
+  },
+  {
+    "title": "Discovering the Magic: Feature Stores in Machine Learning Wonderland",
+    "subtitle": "Navigating the Landscape of Feature Stores for seamless Feature Discovery & Consistency",
+    "author_name": "Pratyush Khare",
+    "published_on": "2024-01-04",
+    "read_time": "5.1",
+    "tags": [
+      "machine-learning",
+      "python",
+      "data-science",
+      "programming",
+      "ai"
+    ],
+    "url": "https://medium.com/p/8b0ae516d7d0"
+  },
+  {
+    "title": "A Guide to Enhancing Data Processing with Scikit-Learn Pipelines",
+    "subtitle": "Scikit-Learn’s Pipelines can be used for efficient data processing and machine learning",
+    "author_name": "Pratyush Khare",
+    "published_on": "2024-01-03",
+    "read_time": "3.0",
+    "tags": [
+      "machine-learning",
+      "python",
+      "programming",
+      "artificial-intelligence",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/88d8f1bedba2"
+  },
+  {
+    "title": "Decoding Data Success: A Comprehensive Guide to A/B Testing Analysis [Part 3]",
+    "subtitle": "Discover advanced DID and Multivariate Testing strategies, redefining precision in outcome decoding.",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-12-26",
+    "read_time": "5.7",
+    "tags": [
+      "experimentation",
+      "python",
+      "programming",
+      "machine",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/b13fc7314e07"
+  },
+  {
+    "title": "Decoding Data Success: A Comprehensive Guide to A/B Testing Analysis [Part 2]",
+    "subtitle": "Explore statistical rigour in A/B testing, from significance tests to post-test computations for data-driven success",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-12-26",
+    "read_time": "7.5",
+    "tags": [
+      "experimentation",
+      "python",
+      "machine-learning",
+      "programming",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/9c09437dc6fa"
+  },
+  {
+    "title": "Decoding Data Success: A Comprehensive Guide to A/B Testing Analysis [Part 1]",
+    "subtitle": "Master A/B testing analysis for decisive, data-driven actions and maximize business success.",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-12-25",
+    "read_time": "4.9",
+    "tags": [
+      "experimentation",
+      "machine-learning",
+      "python",
+      "data-science",
+      "ml-so-good"
+    ],
+    "url": "https://medium.com/p/afff51788fa4"
+  },
+  {
+    "title": "Exploring the Depths of Databases: Internal Indexing Structures",
+    "subtitle": "A journey through internal indexing structures and their impact on query speed",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-11-10",
+    "read_time": "3.5",
+    "tags": [
+      "database",
+      "mlops",
+      "system-design-interview",
+      "machine-learning",
+      "software-development"
+    ],
+    "url": "https://medium.com/p/7da219e164de"
+  },
+  {
+    "title": "Untangling the Threads of Relationships: A Journey into Correlation Coefficients",
+    "subtitle": "Discover the power and nuances of correlation through Pearson, Spearman, and Kendall’s Tau coefficients",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-10-09",
+    "read_time": "6.3",
+    "tags": [
+      "machine-learning",
+      "statistics",
+      "data-science",
+      "python",
+      "data"
+    ],
+    "url": "https://medium.com/p/ded7a5d8123e"
+  },
+  {
+    "title": "From Linear Regression to Shapley — A Journey into Model Interpretability",
+    "subtitle": "A Comprehensive Guide to Interpretability in Machine Learning",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-10-07",
+    "read_time": "7.7",
+    "tags": [
+      "machine-learning",
+      "data-science",
+      "programming",
+      "python",
+      "artificial-intelligence"
+    ],
+    "url": "https://medium.com/p/d77ab04e91b9"
+  },
+  {
+    "title": "Boosting: Unleashing the Power of Ensemble Learning",
+    "subtitle": "A Comprehensive Guide to Boosting Algorithms and Their Mathematical Foundations",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-09-02",
+    "read_time": "10.4",
+    "tags": [
+      "machine-learning",
+      "programming",
+      "artificial-intelligence",
+      "python",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/b69bcd668717"
+  },
+  {
+    "title": "Boosting: Unleashing the Power of Ensemble Learning",
+    "subtitle": "A Comprehensive Guide to Boosting Algorithms and Their Mathematical Foundations",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-09-02",
+    "read_time": "10.4",
+    "tags": [
+      "machine-learning",
+      "programming",
+      "artificial-intelligence",
+      "python",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/b69bcd668717"
+  },
+  {
+    "title": "Boosting: Unleashing the Power of Ensemble Learning",
+    "subtitle": "A Comprehensive Guide to Boosting Algorithms and Their Mathematical Foundations",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-09-02",
+    "read_time": "10.4",
+    "tags": [
+      "machine-learning",
+      "programming",
+      "artificial-intelligence",
+      "python",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/b69bcd668717"
+  },
+  {
+    "title": "Boosting: Unleashing the Power of Ensemble Learning",
+    "subtitle": "A Comprehensive Guide to Boosting Algorithms and Their Mathematical Foundations",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-09-02",
+    "read_time": "10.4",
+    "tags": [
+      "machine-learning",
+      "programming",
+      "artificial-intelligence",
+      "python",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/b69bcd668717"
+  },
+  {
+    "title": "Boosting: Unleashing the Power of Ensemble Learning",
+    "subtitle": "A Comprehensive Guide to Boosting Algorithms and Their Mathematical Foundations",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-09-02",
+    "read_time": "10.4",
+    "tags": [
+      "machine-learning",
+      "programming",
+      "artificial-intelligence",
+      "python",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/b69bcd668717"
+  },
+  {
+    "title": "Boosting: Unleashing the Power of Ensemble Learning",
+    "subtitle": "A Comprehensive Guide to Boosting Algorithms and Their Mathematical Foundations",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-09-02",
+    "read_time": "10.4",
+    "tags": [
+      "machine-learning",
+      "programming",
+      "artificial-intelligence",
+      "python",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/b69bcd668717"
+  },
+  {
+    "title": "Boosting: Unleashing the Power of Ensemble Learning",
+    "subtitle": "A Comprehensive Guide to Boosting Algorithms and Their Mathematical Foundations",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-09-02",
+    "read_time": "10.4",
+    "tags": [
+      "machine-learning",
+      "programming",
+      "artificial-intelligence",
+      "python",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/b69bcd668717"
+  },
+  {
+    "title": "Boosting: Unleashing the Power of Ensemble Learning",
+    "subtitle": "A Comprehensive Guide to Boosting Algorithms and Their Mathematical Foundations",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-09-02",
+    "read_time": "10.4",
+    "tags": [
+      "machine-learning",
+      "programming",
+      "artificial-intelligence",
+      "python",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/b69bcd668717"
+  },
+  {
+    "title": "Boosting: Unleashing the Power of Ensemble Learning",
+    "subtitle": "A Comprehensive Guide to Boosting Algorithms and Their Mathematical Foundations",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-09-02",
+    "read_time": "10.4",
+    "tags": [
+      "machine-learning",
+      "programming",
+      "artificial-intelligence",
+      "python",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/b69bcd668717"
+  },
+  {
+    "title": "Boosting: Unleashing the Power of Ensemble Learning",
+    "subtitle": "A Comprehensive Guide to Boosting Algorithms and Their Mathematical Foundations",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-09-02",
+    "read_time": "10.4",
+    "tags": [
+      "machine-learning",
+      "programming",
+      "artificial-intelligence",
+      "python",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/b69bcd668717"
+  },
+  {
+    "title": "Boosting: Unleashing the Power of Ensemble Learning",
+    "subtitle": "A Comprehensive Guide to Boosting Algorithms and Their Mathematical Foundations",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-09-02",
+    "read_time": "10.4",
+    "tags": [
+      "machine-learning",
+      "programming",
+      "artificial-intelligence",
+      "python",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/b69bcd668717"
+  },
+  {
+    "title": "Boosting: Unleashing the Power of Ensemble Learning",
+    "subtitle": "A Comprehensive Guide to Boosting Algorithms and Their Mathematical Foundations",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-09-02",
+    "read_time": "10.4",
+    "tags": [
+      "machine-learning",
+      "programming",
+      "artificial-intelligence",
+      "python",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/b69bcd668717"
+  },
+  {
+    "title": "Boosting: Unleashing the Power of Ensemble Learning",
+    "subtitle": "A Comprehensive Guide to Boosting Algorithms and Their Mathematical Foundations",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-09-02",
+    "read_time": "10.4",
+    "tags": [
+      "machine-learning",
+      "programming",
+      "artificial-intelligence",
+      "python",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/b69bcd668717"
+  },
+  {
+    "title": "Boosting: Unleashing the Power of Ensemble Learning",
+    "subtitle": "A Comprehensive Guide to Boosting Algorithms and Their Mathematical Foundations",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-09-02",
+    "read_time": "10.4",
+    "tags": [
+      "machine-learning",
+      "programming",
+      "artificial-intelligence",
+      "python",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/b69bcd668717"
+  },
+  {
+    "title": "Boosting: Unleashing the Power of Ensemble Learning",
+    "subtitle": "A Comprehensive Guide to Boosting Algorithms and Their Mathematical Foundations",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-09-02",
+    "read_time": "10.4",
+    "tags": [
+      "machine-learning",
+      "programming",
+      "artificial-intelligence",
+      "python",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/b69bcd668717"
+  },
+  {
+    "title": "Boosting: Unleashing the Power of Ensemble Learning",
+    "subtitle": "A Comprehensive Guide to Boosting Algorithms and Their Mathematical Foundations",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-09-02",
+    "read_time": "10.4",
+    "tags": [
+      "machine-learning",
+      "programming",
+      "artificial-intelligence",
+      "python",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/b69bcd668717"
+  },
+  {
+    "title": "Boosting: Unleashing the Power of Ensemble Learning",
+    "subtitle": "A Comprehensive Guide to Boosting Algorithms and Their Mathematical Foundations",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-09-02",
+    "read_time": "10.4",
+    "tags": [
+      "machine-learning",
+      "programming",
+      "artificial-intelligence",
+      "python",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/b69bcd668717"
+  },
+  {
+    "title": "Boosting: Unleashing the Power of Ensemble Learning",
+    "subtitle": "A Comprehensive Guide to Boosting Algorithms and Their Mathematical Foundations",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-09-02",
+    "read_time": "10.4",
+    "tags": [
+      "machine-learning",
+      "programming",
+      "artificial-intelligence",
+      "python",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/b69bcd668717"
+  },
+  {
+    "title": "Boosting: Unleashing the Power of Ensemble Learning",
+    "subtitle": "A Comprehensive Guide to Boosting Algorithms and Their Mathematical Foundations",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-09-02",
+    "read_time": "10.4",
+    "tags": [
+      "machine-learning",
+      "programming",
+      "artificial-intelligence",
+      "python",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/b69bcd668717"
+  },
+  {
+    "title": "Boosting: Unleashing the Power of Ensemble Learning",
+    "subtitle": "A Comprehensive Guide to Boosting Algorithms and Their Mathematical Foundations",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-09-02",
+    "read_time": "10.4",
+    "tags": [
+      "machine-learning",
+      "programming",
+      "artificial-intelligence",
+      "python",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/b69bcd668717"
+  },
+  {
+    "title": "Boosting: Unleashing the Power of Ensemble Learning",
+    "subtitle": "A Comprehensive Guide to Boosting Algorithms and Their Mathematical Foundations",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-09-02",
+    "read_time": "10.4",
+    "tags": [
+      "machine-learning",
+      "programming",
+      "artificial-intelligence",
+      "python",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/b69bcd668717"
+  },
+  {
+    "title": "Boosting: Unleashing the Power of Ensemble Learning",
+    "subtitle": "A Comprehensive Guide to Boosting Algorithms and Their Mathematical Foundations",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-09-02",
+    "read_time": "10.4",
+    "tags": [
+      "machine-learning",
+      "programming",
+      "artificial-intelligence",
+      "python",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/b69bcd668717"
+  },
+  {
+    "title": "Exploring Skill-Based Matchmaking Systems in Online Games",
+    "subtitle": "Skill-based matchmaking balances competition using methodologies like Elo, Trueskill, and Machine learning, despite design and…",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-08-21",
+    "read_time": "5.7",
+    "tags": [
+      "python",
+      "games",
+      "analytics",
+      "machine-learning",
+      "programming"
+    ],
+    "url": "https://medium.com/p/96491816d9e7"
+  },
+  {
+    "title": "Exploring Dynamic Geography Pricing for In-App Purchases in Mobile Games",
+    "subtitle": "Dynamic geography pricing employs data and machine learning to tailor in-app purchase prices, optimising revenue across diverse regions in…",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-08-15",
+    "read_time": "5.1",
+    "tags": [
+      "games",
+      "mobile",
+      "python",
+      "programming",
+      "pricing-strategy"
+    ],
+    "url": "https://medium.com/p/44158345072f"
+  },
+  {
+    "title": "Sifting through Data: Understanding Feature Selection Methods for Improved Model Efficiency",
+    "subtitle": "Discover the Inner Workings of VIF, IFE, FFS, LASSO, MRMR & Boruta for Optimal Feature Selection",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-08-08",
+    "read_time": "4.6",
+    "tags": [
+      "programming",
+      "feature-selection",
+      "machine-learning",
+      "python",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/bed3463414cd"
+  },
+  {
+    "title": "Unravelling Node2Vec: A Guide to Node Embeddings with Python Implementation",
+    "subtitle": "Discover Node2Vec for mastering graph data analysis and extracting valuable insights from complex networks",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-08-07",
+    "read_time": "5.1",
+    "tags": [
+      "machine-learning",
+      "programming",
+      "python",
+      "graph",
+      "artificial-intelligence"
+    ],
+    "url": "https://medium.com/p/c131603153bd"
+  },
+  {
+    "title": "Navigating Clusters: Unveiling the Optimal K in K-Means Clustering",
+    "subtitle": "Discover methods to determine the best cluster count for K-means, from intuitive techniques to practical Python implementations.",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-08-07",
+    "read_time": "3.7",
+    "tags": [
+      "python",
+      "machine-learning",
+      "clustering",
+      "programming",
+      "artificial-intelligence"
+    ],
+    "url": "https://medium.com/p/6f8ee8a1ec60"
+  },
+  {
+    "title": "An In-Depth Exploration of Isolation Forest: Unleashing the Power of Anomaly Detection",
+    "subtitle": "Unveiling the Intuition and Mathematics of Isolation Forests",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-06-01",
+    "read_time": "4.1",
+    "tags": [
+      "anomaly-detection",
+      "machine-learning",
+      "python",
+      "artificial-intelligence",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/91b63033b993"
+  },
+  {
+    "title": "How to Optimize Your Strategy using Multi-Arm Bandits and Reinforcement Learning",
+    "subtitle": "A Comprehensive Guide to Multi-Arm Bandits: Epsilon-Greedy, Upper Confidence Bound (UCB), and Thompson Sampling",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-05-22",
+    "read_time": "5.7",
+    "tags": [
+      "experimentation",
+      "machine-learning",
+      "artificial-intelligence",
+      "python",
+      "programming"
+    ],
+    "url": "https://medium.com/p/a86f0209f770"
+  },
+  {
+    "title": "Efficient and Scalable Machine Learning with Approximate Nearest Neighbours",
+    "subtitle": "Revolutionizing High-Dimensional Data Analysis with Approximate Nearest Neighbours for Optimal Performance",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-05-17",
+    "read_time": "3.9",
+    "tags": [
+      "search",
+      "python",
+      "programming",
+      "data-science",
+      "artificial-intelligence"
+    ],
+    "url": "https://medium.com/p/af44a61e0a74"
+  },
+  {
+    "title": "Optimizing Game Performance Through Experimentation: A Beginner Guide",
+    "subtitle": "Understanding Random Experiments, Quasi-random Experiments, and Multi-Arm Bandits for Game Experiments",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-05-16",
+    "read_time": "5.5",
+    "tags": [
+      "experimentation",
+      "machine-learning",
+      "python",
+      "data-science",
+      "artificial-intelligence"
+    ],
+    "url": "https://medium.com/p/93fde1385cbe"
+  },
+  {
+    "title": "Understanding FB Prophet: A Time Series Forecasting Algorithm",
+    "subtitle": "Learn the logic, mathematics, and usage of FBProphet for accurate time series forecasting in Python",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-05-14",
+    "read_time": "8.1",
+    "tags": [
+      "time-series-analysis",
+      "python",
+      "machine-learning",
+      "artificial-intelligence",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/c998bc52ca10"
+  },
+  {
+    "title": "Analyzing Patient Churn with Survival Analysis",
+    "subtitle": "Understanding the KM Curve and Cox-Hazard Models",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-05-11",
+    "read_time": "6.0",
+    "tags": [
+      "programming",
+      "python",
+      "machine-learning",
+      "data-science",
+      "artificial-intelligence"
+    ],
+    "url": "https://medium.com/p/11b851ac870f"
+  },
+  {
+    "title": "Unveiling PU Learning: Machine Learning with Partially Labeled Data",
+    "subtitle": "Understand how PU Learning Empowers Machine Learning Models with Partially Labeled Data",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-05-04",
+    "read_time": "5.1",
+    "tags": [
+      "python",
+      "programming",
+      "artificial-intelligence",
+      "data-science",
+      "machine-learning"
+    ],
+    "url": "https://medium.com/p/5ae4ca9b03c6"
+  },
+  {
+    "title": "Optimizing Your Machine Learning Model: A Guide to Hyperparameter Tuning",
+    "subtitle": "A Comprehensive Guide to Hyperparameter Tuning with GridSearch, Bayesian Optimization, and Hyperopt",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-05-03",
+    "read_time": "6.5",
+    "tags": [
+      "python",
+      "machine-learning",
+      "artificial-intelligence",
+      "data-science",
+      "programming"
+    ],
+    "url": "https://medium.com/p/5b6a0636cade"
+  },
+  {
+    "title": "Accelerating Machine Learning Deployment: Unleashing the Power of FastAPI and Docker",
+    "subtitle": "Deploying Machine Learning Models with FastAPI and Docker",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-05-03",
+    "read_time": "5.2",
+    "tags": [
+      "machine-learning",
+      "programming",
+      "artificial-intelligence",
+      "python",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/933865cb990a"
+  },
+  {
+    "title": "Detecting the Unusual: A Guide to Anomaly Detection with Python",
+    "subtitle": "Identifying Outliers in Your Data using Statistical and Machine Learning Methods",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-04-28",
+    "read_time": "4.5",
+    "tags": [
+      "python",
+      "machine-learning",
+      "programming",
+      "data-science",
+      "ml-so-good"
+    ],
+    "url": "https://medium.com/p/3eafc10d71b2"
+  },
+  {
+    "title": "Revolutionizing Machine Learning with Weak Supervision & Snorkel",
+    "subtitle": "An Introduction to Programmatically Labeled Data using Snorkel",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-04-26",
+    "read_time": "4.9",
+    "tags": [
+      "python",
+      "machine-learning",
+      "artificial-intelligence",
+      "data-science",
+      "programming"
+    ],
+    "url": "https://medium.com/p/8c319865d6bf"
+  },
+  {
+    "title": "Say Goodbye to Manual Feature Engineering",
+    "subtitle": "Automate your Feature Engineering with Featuretools",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-04-26",
+    "read_time": "6.1",
+    "tags": [
+      "python",
+      "data-science",
+      "machine-learning",
+      "programming",
+      "automation"
+    ],
+    "url": "https://medium.com/p/1a1e27e27435"
+  },
+  {
+    "title": "Transformers: The Game-Changing Neural Network that’s Powering ChatGPT",
+    "subtitle": "Transformers, the neural network architecture, that has taken the world of natural language processing (NLP) by storm, is a class of models…",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-04-21",
+    "read_time": "5.2",
+    "tags": [
+      "machine-learning",
+      "python",
+      "programming",
+      "chatgpt",
+      "ml-so-good"
+    ],
+    "url": "https://medium.com/p/6641cfe5ced6"
+  },
+  {
+    "title": "Maximizing Sales with Quadratic Programming: A Detailed Implementation Guide",
+    "subtitle": "Learn how to optimize & improve sales force coverage by using Quadratic Programming",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-04-14",
+    "read_time": "6.2",
+    "tags": [
+      "data-science",
+      "optimization",
+      "programming",
+      "python",
+      "marketing"
+    ],
+    "url": "https://medium.com/p/b6472ec600a8"
+  },
+  {
+    "title": "Mastering the Art of Recommendation",
+    "subtitle": "A Guide to Building Personalized Recommendation Engines",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-04-10",
+    "read_time": "9.2",
+    "tags": [
+      "machine-learning",
+      "artificial-intelligence",
+      "python",
+      "recommendation-system",
+      "ml-so-good"
+    ],
+    "url": "https://medium.com/p/745a909b57ef"
+  },
+  {
+    "title": "Deep Learning for NLP: Word2Vec, Doc2Vec, and Top2Vec Demystified",
+    "subtitle": "A Comprehensive Guide to Word2Vec, Doc2Vec, and Top2Vec for Natural Language Processing",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-04-02",
+    "read_time": "7.5",
+    "tags": [
+      "machine-learning",
+      "programming",
+      "python",
+      "artificial-intelligence",
+      "ml-so-good"
+    ],
+    "url": "https://medium.com/p/3842b4fad5c9"
+  },
+  {
+    "title": "Streamline your notifications with Slack Webhooks",
+    "subtitle": "Integrate Slack with Python to streamline your workflow and automate your messages.",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-03-26",
+    "read_time": "2.6",
+    "tags": [
+      "python",
+      "automation",
+      "machine-learning",
+      "programming",
+      "messaging"
+    ],
+    "url": "https://medium.com/p/2ef7635ff429"
+  },
+  {
+    "title": "Supercharge Your ML Model Serving: A Step-by-Step Guide to Kafka and Python Integration",
+    "subtitle": "A Comprehensive Guide on Serving an ML Model Using Kafka and Python",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-03-25",
+    "read_time": "4.8",
+    "tags": [
+      "machine-learning",
+      "artificial-intelligence",
+      "programming",
+      "python",
+      "kafka"
+    ],
+    "url": "https://medium.com/p/4480d02a9368"
+  },
+  {
+    "title": "Learning to Rank 101: An Introduction to Learning to Rank in Machine Learning",
+    "subtitle": "A Comprehensive Guide to Evaluation and Optimization Functions Used in Learning to Rank",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-03-18",
+    "read_time": "7.0",
+    "tags": [
+      "machine-learning",
+      "python",
+      "programming",
+      "data-science",
+      "artificial-intelligence"
+    ],
+    "url": "https://medium.com/p/64be137107a7"
+  },
+  {
+    "title": "Unlocking the Hidden Themes of Text with Topic Modeling",
+    "subtitle": "Discovering the Key Topics in Text Data with Latent Dirichlet Allocation (LDA) and Latent Semantic Analysis (LSA)",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-03-11",
+    "read_time": "5.3",
+    "tags": [
+      "data-science",
+      "machine-learning",
+      "python",
+      "programming",
+      "ml-so-good"
+    ],
+    "url": "https://medium.com/p/c568aabcd1c3"
+  },
+  {
+    "title": "How to perform High-Performance Search using FAISS",
+    "subtitle": "A Beginner’s Guide to FAISS, use-cases, Mathematical foundations & implementation",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-03-04",
+    "read_time": "5.7",
+    "tags": [
+      "machine-learning",
+      "python",
+      "data-science",
+      "programming",
+      "ml-so-good"
+    ],
+    "url": "https://medium.com/p/da2ab12f606c"
+  },
+  {
+    "title": "Optimization in Machine Learning — A Beginner’s Guide",
+    "subtitle": "Exploring Optimization Functions and Algorithms in Machine Learning: From Gradient Descent to Genetic Algorithm and Beyond",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-02-27",
+    "read_time": "7.2",
+    "tags": [
+      "machine-learning",
+      "python",
+      "data-science",
+      "artificial-intelligence",
+      "ml-so-good"
+    ],
+    "url": "https://medium.com/p/f624d6f0764d"
+  },
+  {
+    "title": "Real-Time Machine Learning: Edge computing in Action",
+    "subtitle": "Unlock the Power of Real-time Processing with Edge computing in Machine Learning — Use Cases, Benefits and Beyond",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-02-18",
+    "read_time": "5.0",
+    "tags": [
+      "machine-learning",
+      "data-science",
+      "edge-computing",
+      "tensorflow",
+      "ml-so-good"
+    ],
+    "url": "https://medium.com/p/50c2b37b2a22"
+  },
+  {
+    "title": "Graph Genius: Unlocking the Secrets of Identifying Key Nodes",
+    "subtitle": "Discover key metrics to Identify the Importance of a Node in a Graph",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-02-11",
+    "read_time": "7.1",
+    "tags": [
+      "data-science",
+      "machine-learning",
+      "programming",
+      "python",
+      "ml-so-good"
+    ],
+    "url": "https://medium.com/p/e4c0da4ecc80"
+  },
+  {
+    "title": "PageRank: The Mathematically Funky Way to Rank the Web!",
+    "subtitle": "PageRank 101: The Evolution, Math, and Understanding of Search Engine Rankings",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-02-03",
+    "read_time": "5.3",
+    "tags": [
+      "data-science",
+      "machine-learning",
+      "google",
+      "seo",
+      "ml-so-good"
+    ],
+    "url": "https://medium.com/p/f437e9f8066a"
+  },
+  {
+    "title": "Gokarna — Unspoilt temple town of Karnataka",
+    "subtitle": "Welcome to my travel diary on Gokarna, an unspoilt temple town in the state of Karnataka, located just a few hours from the bustling city…",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-01-28",
+    "read_time": "4.2",
+    "tags": [
+      "travel",
+      "india"
+    ],
+    "url": "https://medium.com/p/6617f3abe401"
+  },
+  {
+    "title": "How do Online Marketplaces know Your Shopping Preferences?",
+    "subtitle": "Learn how online stores know what you like and how they use Machine Learning to personalize your shopping experience.",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-01-27",
+    "read_time": "5.0",
+    "tags": [
+      "technology",
+      "machine-learning",
+      "python",
+      "data-science",
+      "ml-so-good"
+    ],
+    "url": "https://medium.com/p/57405d83516a"
+  },
+  {
+    "title": "A Review of Sapiens: A Brief History of Humankind",
+    "subtitle": "A Mind-Blowing Journey Through Human History",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-01-26",
+    "read_time": "2.4",
+    "tags": [
+      "civilization",
+      "life",
+      "books",
+      "history",
+      "human-behavior"
+    ],
+    "url": "https://medium.com/p/ea4756ff3af3"
+  },
+  {
+    "title": "The Future is Now: How AI is Transforming Our Everyday Lives",
+    "subtitle": "Discover how AI is impacting our daily lives through real-world examples of advancements in healthcare, finance, personal assistants, and…",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-01-23",
+    "read_time": "5.5",
+    "tags": [
+      "technology",
+      "ai",
+      "machine-learning",
+      "data-science",
+      "life"
+    ],
+    "url": "https://medium.com/p/e2544c99ded4"
+  },
+  {
+    "title": "Don’t let AU-ROC trick you!",
+    "subtitle": "Area-under-ROC presents an optimistic view of performance in an Imbalanced dataset",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-01-21",
+    "read_time": "3.9",
+    "tags": [
+      "data-science",
+      "machine-learning",
+      "programming",
+      "python",
+      "technology"
+    ],
+    "url": "https://medium.com/p/22478ff5738d"
+  },
+  {
+    "title": "Increase marketing efficiency with targeted campaigns!",
+    "subtitle": "Discover high-potential individuals by performing network analysis using PageRank",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-01-16",
+    "read_time": "2.9",
+    "tags": [
+      "data-science",
+      "social-network",
+      "marketing",
+      "python",
+      "ml-so-good"
+    ],
+    "url": "https://medium.com/p/7dec19ec46a1"
+  },
+  {
+    "title": "Are you stuck with prehistoric manual ETLs?",
+    "subtitle": "An overview of a Extract-Transform-Load system based on queue-based parallel sequencing",
+    "author_name": "Pratyush Khare",
+    "published_on": "2023-01-05",
+    "read_time": "4.2",
+    "tags": [
+      "automation",
+      "multiprocessing",
+      "python",
+      "programming",
+      "data-science"
+    ],
+    "url": "https://medium.com/p/628ec1444cd"
+  }
+]
