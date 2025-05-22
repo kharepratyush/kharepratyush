@@ -73,6 +73,7 @@ title: "Hi, I am Pratyush"
 </div>
 
 <nav>
+  <a href="{{ '/' | relative_url }}">Home</a> |
   <a href="{{ '/about.html' | relative_url }}">About</a> |
   <a href="{{ '/blogs.html' | relative_url }}">Blogs</a> |
   <a href="#contact">Contact</a>
