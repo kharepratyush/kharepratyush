@@ -17,11 +17,14 @@ def fetch_page(to_cursor=None):
     r = requests.get(url, params=params)
     raw = r.text
     body = raw.split("])}while(1);</x>")[-1]
+    #print(body)
     return json.loads(body)
 
 def parse_posts(data):
     posts = data["payload"]["references"]["Post"]
     users = data["payload"]["references"]["User"]
+
+    added_titles = {}
     result = []
     for pid, p in posts.items():
         title = p.get("title", "")
@@ -33,15 +36,20 @@ def parse_posts(data):
         rt = p.get("virtuals", {}).get("readingTime", 0)
         tags = [t.get("slug") for t in p.get("virtuals", {}).get("tags", [])]
         url = f"https://medium.com/p/{pid}"
-        result.append({
-            "title": title,
-            "subtitle": subtitle,
-            "author_name": author_name,
-            "published_on": published_on,
-            "read_time": f"{rt:.1f}",
-            "tags": tags,
-            "url": url
-        })
+        if title in added_titles:
+            continue
+        else:
+            result.append({
+                        "title": title,
+                        "subtitle": subtitle,
+                        "author_name": author_name,
+                        "published_on": published_on,
+                        "read_time": f"{rt:.1f}",
+                        "tags": tags,
+                        "url": url
+                })
+            added_titles[title] = True
+
     return result
 
 
@@ -50,12 +58,19 @@ def main():
     data = fetch_page()
     all_posts.extend(parse_posts(data))
     to = data["payload"]["paging"]["next"].get("to")
+
     while to:
         data = fetch_page(to)
         all_posts.extend(parse_posts(data))
         to = data["payload"]["paging"]["next"].get("to")
-    # Sort posts by published_on descending
-    all_posts.sort(key=lambda x: x["published_on"], reverse=True)
+
+    # Dedupe posts by title and sort by published_on descending
+    unique_posts = {}
+    for post in all_posts:
+        if post["title"] not in unique_posts:
+            unique_posts[post["title"]] = post
+    all_posts = sorted(unique_posts.values(), key=lambda x: x["published_on"], reverse=True)
+
     # Write to JSON for Jekyll data
     os.makedirs(os.path.dirname(OUTPUT_DATA), exist_ok=True)
     with open(OUTPUT_DATA, "w", encoding="utf-8") as f:
