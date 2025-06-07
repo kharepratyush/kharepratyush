@@ -1,6 +1,6 @@
 [
   {
-    "title": "Cracking the Code: Byte Pair Encoding (BPE) Explained",
+    "title": "LLM Basics: Byte Pair Encoding (BPE) Explained",
     "subtitle": "Unlocking the Magic of Subword Tokenization for Language Models",
     "author_name": "Pratyush Khare",
     "published_on": "2025-01-06",
@@ -150,7 +150,7 @@
     "url": "https://medium.com/p/24f10fac3950"
   },
   {
-    "title": "Understanding REST: A Comprehensive Guide to Representational State Transfer",
+    "title": "Understanding REST: A Beginner’s Guide to Representational State Transfer",
     "subtitle": "In the world of web development and APIs, REST, or Representational State Transfer, stands as an important architectural style. REST has…",
     "author_name": "Pratyush Khare",
     "published_on": "2024-02-20",
@@ -165,11 +165,11 @@
     "url": "https://medium.com/p/4b05908e06c6"
   },
   {
-    "title": "Crafting Compelling Prompts: How Langchain Empowers OpenAI",
+    "title": "AI Agents Basics: How Langchain Empowers OpenAI",
     "subtitle": "Large Language Models (LLMs) are rapidly transforming possibilities across diverse fields. From generating human-quality text to composing…",
     "author_name": "Pratyush Khare",
     "published_on": "2024-02-13",
-    "read_time": "2.8",
+    "read_time": "2.6",
     "tags": [
       "artificial-intelligence",
       "machine-learning",
@@ -319,7 +319,7 @@
     "subtitle": "A journey through internal indexing structures and their impact on query speed",
     "author_name": "Pratyush Khare",
     "published_on": "2023-11-10",
-    "read_time": "3.5",
+    "read_time": "3.3",
     "tags": [
       "database",
       "mlops",
@@ -330,11 +330,11 @@
     "url": "https://medium.com/p/7da219e164de"
   },
   {
-    "title": "Untangling the Threads of Relationships: A Journey into Correlation Coefficients",
+    "title": "Correlation 101: A Brief Introduction to Correlation Coefficients",
     "subtitle": "Discover the power and nuances of correlation through Pearson, Spearman, and Kendall’s Tau coefficients",
     "author_name": "Pratyush Khare",
     "published_on": "2023-10-09",
-    "read_time": "6.3",
+    "read_time": "6.1",
     "tags": [
       "machine-learning",
       "statistics",
@@ -390,22 +390,7 @@
     "url": "https://medium.com/p/96491816d9e7"
   },
   {
-    "title": "Exploring Dynamic Geography Pricing for In-App Purchases in Mobile Games",
-    "subtitle": "Dynamic geography pricing employs data and machine learning to tailor in-app purchase prices, optimising revenue across diverse regions in…",
-    "author_name": "Pratyush Khare",
-    "published_on": "2023-08-15",
-    "read_time": "5.1",
-    "tags": [
-      "games",
-      "mobile",
-      "python",
-      "programming",
-      "pricing-strategy"
-    ],
-    "url": "https://medium.com/p/44158345072f"
-  },
-  {
-    "title": "Sifting through Data: Understanding Feature Selection Methods for Improved Model Efficiency",
+    "title": "Understanding Feature Selection Methods for Model Efficiency",
     "subtitle": "Discover the Inner Workings of VIF, IFE, FFS, LASSO, MRMR & Boruta for Optimal Feature Selection",
     "author_name": "Pratyush Khare",
     "published_on": "2023-08-08",
@@ -420,7 +405,7 @@
     "url": "https://medium.com/p/bed3463414cd"
   },
   {
-    "title": "Unravelling Node2Vec: A Guide to Node Embeddings with Python Implementation",
+    "title": "Node2Vec: A Guide to Node Embeddings with Python Implementation",
     "subtitle": "Discover Node2Vec for mastering graph data analysis and extracting valuable insights from complex networks",
     "author_name": "Pratyush Khare",
     "published_on": "2023-08-07",
@@ -450,11 +435,11 @@
     "url": "https://medium.com/p/6f8ee8a1ec60"
   },
   {
-    "title": "An In-Depth Exploration of Isolation Forest: Unleashing the Power of Anomaly Detection",
-    "subtitle": "Unveiling the Intuition and Mathematics of Isolation Forests",
+    "title": "Anomaly Detection 201: An In-Depth Exploration of Isolation Forest",
+    "subtitle": "Unveiling the Intuition and Mathematics of Isolation Forest",
     "author_name": "Pratyush Khare",
     "published_on": "2023-06-01",
-    "read_time": "4.1",
+    "read_time": "3.9",
     "tags": [
       "anomaly-detection",
       "machine-learning",
@@ -480,7 +465,7 @@
     "url": "https://medium.com/p/a86f0209f770"
   },
   {
-    "title": "Efficient and Scalable Machine Learning with Approximate Nearest Neighbours",
+    "title": "Vector 301: Efficient and Scalable Approximate Nearest Neighbours",
     "subtitle": "Revolutionizing High-Dimensional Data Analysis with Approximate Nearest Neighbours for Optimal Performance",
     "author_name": "Pratyush Khare",
     "published_on": "2023-05-17",
@@ -493,21 +478,6 @@
       "artificial-intelligence"
     ],
     "url": "https://medium.com/p/af44a61e0a74"
-  },
-  {
-    "title": "Optimizing Game Performance Through Experimentation: A Beginner Guide",
-    "subtitle": "Understanding Random Experiments, Quasi-random Experiments, and Multi-Arm Bandits for Game Experiments",
-    "author_name": "Pratyush Khare",
-    "published_on": "2023-05-16",
-    "read_time": "5.5",
-    "tags": [
-      "experimentation",
-      "machine-learning",
-      "python",
-      "data-science",
-      "artificial-intelligence"
-    ],
-    "url": "https://medium.com/p/93fde1385cbe"
   },
   {
     "title": "Understanding FB Prophet: A Time Series Forecasting Algorithm",
@@ -525,7 +495,7 @@
     "url": "https://medium.com/p/c998bc52ca10"
   },
   {
-    "title": "Analyzing Patient Churn with Survival Analysis",
+    "title": "Analysing Patient Churn with Survival Analysis",
     "subtitle": "Understanding the KM Curve and Cox-Hazard Models",
     "author_name": "Pratyush Khare",
     "published_on": "2023-05-11",
@@ -555,11 +525,11 @@
     "url": "https://medium.com/p/5ae4ca9b03c6"
   },
   {
-    "title": "Optimizing Your Machine Learning Model: A Guide to Hyperparameter Tuning",
+    "title": "Optimisation 301: A Guide to Hyperparameter Tuning",
     "subtitle": "A Comprehensive Guide to Hyperparameter Tuning with GridSearch, Bayesian Optimization, and Hyperopt",
     "author_name": "Pratyush Khare",
     "published_on": "2023-05-03",
-    "read_time": "6.5",
+    "read_time": "6.4",
     "tags": [
       "python",
       "machine-learning",
@@ -570,7 +540,7 @@
     "url": "https://medium.com/p/5b6a0636cade"
   },
   {
-    "title": "Accelerating Machine Learning Deployment: Unleashing the Power of FastAPI and Docker",
+    "title": "ML Deployment: Exploring FastAPI and Docker",
     "subtitle": "Deploying Machine Learning Models with FastAPI and Docker",
     "author_name": "Pratyush Khare",
     "published_on": "2023-05-03",
@@ -585,7 +555,7 @@
     "url": "https://medium.com/p/933865cb990a"
   },
   {
-    "title": "Detecting the Unusual: A Guide to Anomaly Detection with Python",
+    "title": "Anomaly Detection 101: A Beginner’s Guide to Anomaly Detection with Python",
     "subtitle": "Identifying Outliers in Your Data using Statistical and Machine Learning Methods",
     "author_name": "Pratyush Khare",
     "published_on": "2023-04-28",
@@ -645,8 +615,8 @@
     "url": "https://medium.com/p/6641cfe5ced6"
   },
   {
-    "title": "Maximizing Sales with Quadratic Programming: A Detailed Implementation Guide",
-    "subtitle": "Learn how to optimize & improve sales force coverage by using Quadratic Programming",
+    "title": "Optimization 201: Maximizing Sales with Quadratic Programming",
+    "subtitle": "Learn how to optimise & improve sales force coverage by using Quadratic Programming",
     "author_name": "Pratyush Khare",
     "published_on": "2023-04-14",
     "read_time": "6.2",
@@ -675,7 +645,7 @@
     "url": "https://medium.com/p/745a909b57ef"
   },
   {
-    "title": "Deep Learning for NLP: Word2Vec, Doc2Vec, and Top2Vec Demystified",
+    "title": "Non-Contextual Word Embeddings: Word2Vec, Doc2Vec, and Top2Vec Explained",
     "subtitle": "A Comprehensive Guide to Word2Vec, Doc2Vec, and Top2Vec for Natural Language Processing",
     "author_name": "Pratyush Khare",
     "published_on": "2023-04-02",
@@ -705,11 +675,11 @@
     "url": "https://medium.com/p/2ef7635ff429"
   },
   {
-    "title": "Supercharge Your ML Model Serving: A Step-by-Step Guide to Kafka and Python Integration",
+    "title": "ML Serving: A Step-by-Step Guide to Kafka and Python Integration",
     "subtitle": "A Comprehensive Guide on Serving an ML Model Using Kafka and Python",
     "author_name": "Pratyush Khare",
     "published_on": "2023-03-25",
-    "read_time": "4.8",
+    "read_time": "4.7",
     "tags": [
       "machine-learning",
       "artificial-intelligence",
@@ -750,7 +720,7 @@
     "url": "https://medium.com/p/c568aabcd1c3"
   },
   {
-    "title": "How to perform High-Performance Search using FAISS",
+    "title": "Vector 201: How to perform High-Performance Search using FAISS",
     "subtitle": "A Beginner’s Guide to FAISS, use-cases, Mathematical foundations & implementation",
     "author_name": "Pratyush Khare",
     "published_on": "2023-03-04",
@@ -769,7 +739,7 @@
     "subtitle": "Exploring Optimization Functions and Algorithms in Machine Learning: From Gradient Descent to Genetic Algorithm and Beyond",
     "author_name": "Pratyush Khare",
     "published_on": "2023-02-27",
-    "read_time": "7.2",
+    "read_time": "7.1",
     "tags": [
       "machine-learning",
       "python",
@@ -795,11 +765,11 @@
     "url": "https://medium.com/p/50c2b37b2a22"
   },
   {
-    "title": "Graph Genius: Unlocking the Secrets of Identifying Key Nodes",
-    "subtitle": "Discover key metrics to Identify the Importance of a Node in a Graph",
+    "title": "Graph Analysis: How to identify Key Nodes",
+    "subtitle": "Discover key metrics to identify the importance of a node",
     "author_name": "Pratyush Khare",
     "published_on": "2023-02-11",
-    "read_time": "7.1",
+    "read_time": "7.0",
     "tags": [
       "data-science",
       "machine-learning",
@@ -810,8 +780,8 @@
     "url": "https://medium.com/p/e4c0da4ecc80"
   },
   {
-    "title": "PageRank: The Mathematically Funky Way to Rank the Web!",
-    "subtitle": "PageRank 101: The Evolution, Math, and Understanding of Search Engine Rankings",
+    "title": "PageRank 201: The Mathematically Funky Way to Rank the Web!",
+    "subtitle": "The Evolution, Math, and Understanding of PageRank",
     "author_name": "Pratyush Khare",
     "published_on": "2023-02-03",
     "read_time": "5.3",
@@ -837,7 +807,7 @@
     "url": "https://medium.com/p/6617f3abe401"
   },
   {
-    "title": "How do Online Marketplaces know Your Shopping Preferences?",
+    "title": "Vector 101: How do Online Marketplaces know Your Shopping Preferences?",
     "subtitle": "Learn how online stores know what you like and how they use Machine Learning to personalize your shopping experience.",
     "author_name": "Pratyush Khare",
     "published_on": "2023-01-27",
@@ -867,21 +837,6 @@
     "url": "https://medium.com/p/ea4756ff3af3"
   },
   {
-    "title": "The Future is Now: How AI is Transforming Our Everyday Lives",
-    "subtitle": "Discover how AI is impacting our daily lives through real-world examples of advancements in healthcare, finance, personal assistants, and…",
-    "author_name": "Pratyush Khare",
-    "published_on": "2023-01-23",
-    "read_time": "5.5",
-    "tags": [
-      "technology",
-      "ai",
-      "machine-learning",
-      "data-science",
-      "life"
-    ],
-    "url": "https://medium.com/p/e2544c99ded4"
-  },
-  {
     "title": "Don’t let AU-ROC trick you!",
     "subtitle": "Area-under-ROC presents an optimistic view of performance in an Imbalanced dataset",
     "author_name": "Pratyush Khare",
@@ -897,7 +852,7 @@
     "url": "https://medium.com/p/22478ff5738d"
   },
   {
-    "title": "Increase marketing efficiency with targeted campaigns!",
+    "title": "PageRank 101: Increase marketing efficiency with targeted campaigns!",
     "subtitle": "Discover high-potential individuals by performing network analysis using PageRank",
     "author_name": "Pratyush Khare",
     "published_on": "2023-01-16",
@@ -910,20 +865,5 @@
       "ml-so-good"
     ],
     "url": "https://medium.com/p/7dec19ec46a1"
-  },
-  {
-    "title": "Are you stuck with prehistoric manual ETLs?",
-    "subtitle": "An overview of a Extract-Transform-Load system based on queue-based parallel sequencing",
-    "author_name": "Pratyush Khare",
-    "published_on": "2023-01-05",
-    "read_time": "4.2",
-    "tags": [
-      "automation",
-      "multiprocessing",
-      "python",
-      "programming",
-      "data-science"
-    ],
-    "url": "https://medium.com/p/628ec1444cd"
   }
 ]
